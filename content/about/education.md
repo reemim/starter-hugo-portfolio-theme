@@ -31,7 +31,6 @@ experience:
     date_end: '2026-11-01'
     description: |2-
         * Dissertation on Y
-
   - title: MSc Control Systems
     company: Imperial College London
     company_url: ''
@@ -41,8 +40,6 @@ experience:
     date_end: '2021-10-05'
     description: |2-
         * Dissertation on Y
-
-
   - title: BSc Electrical and Computer Engineering
     company: King Abdulaziz University
     company_url: ''
@@ -51,7 +48,6 @@ experience:
     date_start: '2013-09-01'
     date_end: '2027-06-17'
     description: My dissertation was on X
-
 design:
   columns: '1'
 ---
