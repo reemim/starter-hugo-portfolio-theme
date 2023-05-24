@@ -29,8 +29,7 @@ experience:
     location: London, United Kingdom
     date_start: '2022-11-01
     date_end: '2026-11-01'
-    description: |2-
-        * Dissertation on Y
+    description: |2- * Dissertation on Y
   - title: MSc Control Systems
     company: Imperial College London
     company_url: ''
@@ -38,8 +37,7 @@ experience:
     location: London, United Kingdom
     date_start: '2020-10-05
     date_end: '2021-10-05'
-    description: |2-
-        * Dissertation on Y
+    description: |2- * Dissertation on Y
   - title: BSc Electrical and Computer Engineering
     company: King Abdulaziz University
     company_url: ''
