@@ -23,7 +23,32 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+  - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/9T76LVQTDVHY
+    date_end: ''
+    date_start: '2023-05-01'
+    description: ''
+    organization: Coursera, DeepLearning.AI, Standford University
+    organization_url: https://www.coursera.org
+    title: Machine Learning Specialization by Andrew Ng
+    url: '' 
 
+  - certificate_url: 
+    date_end: ''
+    date_start: '2023-06-01'
+    description: ''
+    organization: Coursera, University of Minnesota
+    organization_url: https://www.coursera.org
+    title: Recommender Systems Specialization by Joseph Konstan and Michael Ekstrand
+    url: ''
+
+  - certificate_url: 
+    date_end: ''
+    date_start: '2023-02-01'
+    description: ''
+    organization: University College London
+    organization_url: 
+    title: Teaching Associate Program (TAP)
+    url: ''
 
 design:
   columns: '1'
