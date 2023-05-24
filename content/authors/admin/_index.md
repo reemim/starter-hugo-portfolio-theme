@@ -43,13 +43,10 @@ bio: My research interests include Machine Learning, Recommender Systems, Natura
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
+    link: mailto:reem.masoud.22@ucl.ac.uk  #For a direct email link, use "mailto:test@example.org".
+  - icon: LinkenIn
     icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
-    icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: linkedin.com/in/reem-i-masoud-12140b7b
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
