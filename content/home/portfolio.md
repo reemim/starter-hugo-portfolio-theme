@@ -28,10 +28,10 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
+    - name: Culturally-Aware Recommender Systems 
+      tag: Cares
+    - name: Fairness in Recommender Systems
+      tag: fair
     - name: NLP
       tag: NLP
 
