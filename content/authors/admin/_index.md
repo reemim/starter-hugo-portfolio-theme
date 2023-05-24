@@ -44,7 +44,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:reem.masoud.22@ucl.ac.uk  #For a direct email link, use "mailto:test@example.org".
-  - icon: LinkenIn
+  - icon: linkedin
     icon_pack: fab
     link: linkedin.com/in/reem-i-masoud-12140b7b
 # Uncomment below for Github link
