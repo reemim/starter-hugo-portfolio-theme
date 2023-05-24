@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: org-x
     location: London, United Kingdom
-    date_start: '2022-11-01
+    date_start: '2022-11-01'
     date_end: '2026-11-01'
     description: |2-
         * Dissertation on Y
@@ -39,7 +39,7 @@ experience:
     company_url: ''
     company_logo: org-x
     location: London, United Kingdom
-    date_start: '2020-10-05
+    date_start: '2020-10-05'
     date_end: '2021-10-05'
     description: |2-
         * Dissertation on Y
