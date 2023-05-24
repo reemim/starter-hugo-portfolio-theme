@@ -11,6 +11,10 @@ date: 2023-05-24
 lastmod: 2023-05-24T15:15:04Z
 featured: false
 draft: false
+# Allow users to comment on the page?
+# Requires commenting to be configured in `params.yaml`
+commentable: true
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -27,3 +31,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
